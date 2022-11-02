@@ -167,13 +167,5 @@ Thats it. Go to the ipynb files now.
 - [X] MOMENTUM IN GD :tada:
   
   
-**
-For the discussion on comparison among the advanced optimization techniques to solve a real world case, please visit [here](https://github.com/mahendranandi/Optimization-Algorithm/tree/main/Playing_With_Optimizers_in_DL) inside this repository.
-
-Feel free to contact me in mahendranandi.0608@gmail.com
-
-Suggestions are warmly wellcomed. Please ,inform me here or drop a message in [LinkedIn](https://www.linkedin.com/in/mahendra-nandi-7038b8176/)
-
-**
 
 <!-- <img src="https://render.githubusercontent.com/render/math?math=e^{i +\pi} =x+1"> -->
